@@ -24,6 +24,36 @@
     "location": ""
   },
   {
+    "time": "2-2:45pm",
+    "title": "Game Design and Development",
+    "description": "Prof. Malcom Wabara",
+    "location": "NAAB 206"
+  },
+  {
+    "time": "3-3:45pm",
+    "title": "Intro to Web Applications",
+    "description": "Dr. Ching-Yu Huang",
+    "location": "NAAB 206"
+  },
+  {
+    "time": "4-4:30pm",
+    "title": "Narrowing Down Your Day 1 MVP",
+    "description": "Mike Casey - Aventr",
+    "location": "NAAB 206"
+  },
+  {
+    "time": "5:45-6:30pm",
+    "title": "Facebook/InstaGram Posting Classification Talk",
+    "description": "Dr. Jenny Li",
+    "location": "NAAB 206"
+  },
+  {
+    "time": "7-7:45pm",
+    "title": "Computer Security Workshop",
+    "description": "Dr. Jing Cing Liou",
+    "location": "NAAB 206"
+  },
+  {
     "time": "6pm",
     "title": "Dinner",
     "description": "",
