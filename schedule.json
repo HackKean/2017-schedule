@@ -48,16 +48,16 @@
     "location": "NAAB 206"
   },
   {
-    "time": "7-7:45pm",
-    "title": "Computer Security Workshop",
-    "description": "Dr. Jing Cing Liou",
-    "location": "NAAB 206"
-  },
-  {
     "time": "6pm",
     "title": "Dinner",
     "description": "",
     "location": ""
+  },
+  {
+    "time": "7-7:45pm",
+    "title": "Computer Security Workshop",
+    "description": "Dr. Jing Cing Liou",
+    "location": "NAAB 206"
   },
   {
     "time": "12am",
