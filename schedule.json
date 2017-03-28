@@ -10,5 +10,65 @@
     "title": "Opening Ceremony",
     "description": "Kicking things off",
     "location": "NAAB 109"
+  },
+  {
+    "time": "12pm",
+    "title": "Hacking Begins",
+    "description": "",
+    "location": ""
+  },
+  {
+    "time": "2pm",
+    "title": "Lunch",
+    "description": "Kicking things off",
+    "location": "NAAB 109"
+  },
+  {
+    "time": "6pm",
+    "title": "Dinner",
+    "description": "",
+    "location": ""
+  },
+  {
+    "time": "12am",
+    "title": "Midnight Snack",
+    "description": "",
+    "location": ""
+  },
+  {
+    "time": "8am",
+    "title": "Breakfast",
+    "description": "",
+    "location": ""
+  },
+  {
+    "time": "11am",
+    "title": "DevPost Submissions Due",
+    "description": "",
+    "location": ""
+  },
+  {
+    "time": "12pm",
+    "title": "Hacking Ends",
+    "description": "",
+    "location": ""
+  },
+  {
+    "time": "1230pm",
+    "title": "Presentations",
+    "description": "Demo your hack!",
+    "location": ""
+  },
+  {
+    "time": "1pm",
+    "title": "Closing Ceremony",
+    "description": "Awards & fun",
+    "location": ""
+  },
+  {
+    "time": "130pm",
+    "title": "End of HackKean",
+    "description": "Goodbye!",
+    "location": ""
   }
 ]
