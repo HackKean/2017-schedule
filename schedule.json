@@ -2,11 +2,13 @@
   {
     "time": "11am",
     "title": "Registration",
+    "description": "Registration and swag!",
     "location": "NAAB 1st Floor"
   },
   {
     "time": "1130am",
     "title": "Opening Ceremony",
+    "description": "Kicking things off",
     "location": "NAAB 109"
   }
 ]
