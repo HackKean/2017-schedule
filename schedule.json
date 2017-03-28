@@ -1,25 +1,12 @@
 [
   {
-    "caption": "",
-    "event_type": "events",
-    "location": "TBD",
-    "time": {
-      "day": "sat",
-      "duration": "2:00",
-      "start": "3:00PM"
-    },
-    "title": "Microsoft Massages"
+    "time": "11am",
+    "title": "Registration",
+    "location": "NAAB 1st Floor"
   },
   {
-    "caption": "",
-    "event_type": "events",
-    "location": "TBD",
-    "time": {
-      "day": "sat",
-      "duration": "2:00",
-      "start": "3:30PM"
-    },
-    "title": "Best Friends Animal Society Water Bottle Infuser Station",
-    "offset": 1
+    "time": "1130am",
+    "title": "Opening Ceremony",
+    "location": "NAAB 109"
   }
 ]
