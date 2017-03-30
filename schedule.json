@@ -18,6 +18,12 @@
     "location": ""
   },
   {
+    "time": "130-2pm",
+    "title": "Angular vs React",
+    "description": "Viacom",
+    "location": ""
+  },
+  {
     "time": "2pm",
     "title": "Lunch",
     "description": "",
@@ -43,7 +49,7 @@
   },
   {
     "time": "5:45-6:30pm",
-    "title": "Facebook/InstaGram Posting Classification Talk",
+    "title": "Facebook/Instagram Posting Classification Talk",
     "description": "Dr. Jenny Li",
     "location": "NAAB 206"
   },
