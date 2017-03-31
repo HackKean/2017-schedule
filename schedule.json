@@ -21,13 +21,13 @@
     "time": "130-2pm",
     "title": "Angular vs React",
     "description": "Viacom",
-    "location": ""
+    "location": "NAAB 206"
   },
   {
     "time": "2pm",
     "title": "Lunch",
     "description": "",
-    "location": ""
+    "location": "2nd Floor Hallway"
   },
   {
     "time": "2-2:45pm",
@@ -57,7 +57,7 @@
     "time": "7pm",
     "title": "Dinner",
     "description": "",
-    "location": ""
+    "location": "2nd Floor Hallway"
   },
   {
     "time": "7-7:45pm",
@@ -75,7 +75,7 @@
     "time": "12am",
     "title": "Midnight Snack",
     "description": "",
-    "location": ""
+    "location": "2nd Floor Hallway"
   },
   {
     "time": "7am",
@@ -87,7 +87,7 @@
     "time": "8am",
     "title": "Breakfast",
     "description": "",
-    "location": ""
+    "location": "2nd Floor Hallway"
   },
   {
     "time": "11am",
